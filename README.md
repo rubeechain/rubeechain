@@ -11,3 +11,4 @@
 
 * RUBEEchain components provide fine grained reputation accounting with separable ranking according to availability, integrity, and confidentiality. RUBEEchain token reputation bonds are forfeit to the renter of the RUBEEchain resource upon failure to meet requirements, thereby providing automated service level agreements. Smart contracts and other blockchain applications can select their RUBEEchain components based on reputation ranking and characteristics best suited to the application needs.
 
+info@rubeechain.org
